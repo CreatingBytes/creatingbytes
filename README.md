@@ -31,3 +31,11 @@ On this account, I primarily push private projects and will add public projects 
 - Learning by doing
 - Writing clean and understandable code
 - Growing as a developer through real projects
+
+---
+
+### 👨‍🚀 A Bit About Me
+- ☕ Definitely a tea person
+- 🛠  Build simple, understandable things
+- 🧠 I like learning by doing and experimenting with new ideas
+- 🌱 always learning and improving 
