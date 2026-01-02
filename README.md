@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there ✌️
 
-<!--
-**CreatingBytes/creatingbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andre, an apprenticeship trainee based in Germany.
 
-Here are some ideas to get you started:
+I mostly work on personal projects where I can continuously improve my skills.  
+For UI inspiration, I use AI tools to explore and discover inspiring designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On this account, I primarily push private projects and will add public projects in the future.
+
+---
+
+### 🛠 Skills & Technologies
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🎨 Tailwind CSS
+- ⚡ Javascript
+
+---
+
+### 📚 What I'm learning
+- Programming fundamentals
+- Object-oriented programming
+- Web development basics
+- Building API's
+- Building projects to apply and imnprove my skills
+
+---
+
+### 🎯 Focus
+- Learning by doing
+- Writing clean and understandable code
+- Growing as a developer through real projects
